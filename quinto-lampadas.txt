@@ -1,0 +1,7 @@
+# Primeiro passo: 
+Ir até a sala dos interruptores, ligar o primeiro interruptor (1) e deixá-lo ligado até a lampada aquecer. 
+# Segundo passo: 
+Desligar o interruptor 1 e ligar o 2
+# Terceiro passo: 
+Ir até uma sala de lâmpadas. Se ela estiver acesa, é controlada pelo interuptor 2 que ficou ligado. Se estiver apagada mas quente, é controlada pelo interruptor 1 que desliguei. Se estiver apagada e fria, é controlada pelo interruptor 3. 
+
